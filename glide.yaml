@@ -8,7 +8,7 @@ import:
   - statsd
 - package: github.com/hashicorp/go-multierror
 - package: github.com/hashicorp/hcl
-- package: github.com/jaxxstorm/graphping
+- package: github.com/richmondwang/graphping
   version: ^0.1.0
   subpackages:
   - config

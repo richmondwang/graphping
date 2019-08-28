@@ -20,7 +20,7 @@ imports:
   - json/parser
   - json/scanner
   - json/token
-- name: github.com/jaxxstorm/graphping
+- name: github.com/richmondwang/graphping
   version: 8f0f0a38f53a5bf5c38b2d57aa4ded7eaf6aed10
   subpackages:
   - config

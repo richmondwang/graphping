@@ -5,7 +5,7 @@ import (
 	"fmt"
 	log "github.com/Sirupsen/logrus"
 	"github.com/cactus/go-statsd-client/statsd"
-	"github.com/jaxxstorm/graphping/config"
+	"github.com/richmondwang/graphping/config"
 	"github.com/tatsushid/go-fastping"
 	"net"
 	"time"
